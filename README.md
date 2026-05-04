@@ -63,6 +63,7 @@ Outcome
 The final output was a cohesive internal campaign that introduced and promoted the literature club in a visually engaging way. The materials were designed for easy sharing across internal communication channels and aimed at increasing awareness and participation.
 
 Tools & Skills Used
+Canva and Figma 
 
 Visual identity design
 
